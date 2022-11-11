@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Nils A. Koch - Website under construction
+#  Website under construction
 
 This website is currently under construction.
 
