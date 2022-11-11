@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nils A. Koch"
+  name             : ""
   avatar           : #"profile.png"
   bio              : #"Your biography for the left-hand sidebar"
   location         : #"Montreal, Canada"
   employer         :
-  pubmed           : #example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Nils+A+Koch" #example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=EQiQLZgAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
