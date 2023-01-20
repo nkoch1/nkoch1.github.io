@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/Koch2023Preprint
 excerpt: 'PREPRINT'
 date: 2023-01-16
-venue: 'bioRxiv '
+venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/2023.01.16.524256'
-citation: 'Koch <i>et al.</i> (2021). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 2023.01.16.524256.'
+citation: 'Koch <i>et al.</i> (2021). &quot;Paper Title Number 1.&quot; <i>bioRxiv</i>. 2023.01.16.524256.'
 ---
 
 [https://doi.org/10.1101/2023.01.16.524256](https://doi.org/10.1101/2023.01.16.524256)
