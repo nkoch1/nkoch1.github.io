@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-10-09 
 venue: 'Frontiers in Neurology'
 paperurl: 'https://doi.org/10.3389%2Ffneur.2021.703970'
-citation: 'Lauxmann <i>et al.</i> (2021). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Lauxmann <i>et al.</i> (2021). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 12:703970.'
 ---
 
 [(https://doi.org/10.3389%2Ffneur.2021.703970)](https://doi.org/10.3389%2Ffneur.2021.703970)
