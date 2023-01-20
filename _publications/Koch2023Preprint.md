@@ -1,12 +1,12 @@
 ---
-title: "Genotype-phenotype correlations in {SCN8A}-related disorders reveal prognostic and therapeutic implications"
+title: "Loss or Gain of Function? Effects of Ion Channel Mutations on Neuronal Firing Depend on the Cell Type"
 collection: publications
 permalink: /publication/Koch2023Preprint
 excerpt: 'PREPRINT'
 date: 2023-01-16
 venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/2023.01.16.524256'
-citation: 'Koch <i>et al.</i> (2021). &quot;Paper Title Number 1.&quot; <i>bioRxiv</i>. 2023.01.16.524256.'
+citation: 'Koch <i>et al.</i> (2021). &quot;Loss or Gain of Function? Effects of Ion Channel Mutations on Neuronal Firing Depend on the Cell Type.&quot; <i>bioRxiv</i>. 2023.01.16.524256.'
 ---
 
 [https://doi.org/10.1101/2023.01.16.524256](https://doi.org/10.1101/2023.01.16.524256)
