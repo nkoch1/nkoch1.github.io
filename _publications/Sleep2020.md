@@ -11,4 +11,4 @@ citation: 'Pisanski *et al.* (2020). &quot;Paper Title Number 1.&quot; <i>Journa
 
 [(https://doi.org/10.1093/sleep/zsz283)](https://doi.org/10.1093/sleep/zsz283)
 
-Recommended citation: Pisanski *et al.* (2020). "Chemogenetic modulation of the parafacial respiratory group influences the recruitment of abdominal activity during REM sleep." <i>Journal 1</i>. Volume 43, Issue 5, May 2020, zsz283, https://doi.org/10.1093/sleep/zsz283
+Recommended citation: Pisanski *et al.* (2020). "Chemogenetic modulation of the parafacial respiratory group influences the recruitment of abdominal activity during REM sleep." <i>Sleep</i>. Volume 43, Issue 5, May 2020, zsz283, https://doi.org/10.1093/sleep/zsz283
