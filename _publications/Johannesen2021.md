@@ -5,7 +5,7 @@ permalink: /publication/Johannessen2021
 excerpt: ''
 date: 2021-08-25
 venue: 'Brain'
-paperurl: 'http://academicpages.github.io/files/Sleep2020.pdf'
+paperurl: 'https://doi.org/10.1093/brain/awab321'
 citation: 'Johannessen *et al.* (2021). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
