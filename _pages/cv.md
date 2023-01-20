@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Nils A. Koch - CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
