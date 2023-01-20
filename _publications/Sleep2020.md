@@ -5,7 +5,7 @@ permalink: /publication/Sleep2020
 excerpt: ''
 date: 2019-11-20
 venue: 'Sleep'
-paperurl: 'http://academicpages.github.io/files/Sleep2020.pdf'
+paperurl: 'https://doi.org/10.1093/sleep/zsz283'
 citation: 'Pisanski *et al.* (2020). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
