@@ -4,7 +4,7 @@ Nils Koch :
   name        : "Nils A. Koch"
   uri         : #"http://name.com"
   email       : "nils.koch@mail.mcgill.ca"
-  avatar      : "nilskoch.jpg"
+  avatar      : "images/nilskoch.jpg"
   bio         : #"This is the first name."
   twitter     : #"name"
   google_plus : #"Name"
