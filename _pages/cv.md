@@ -18,8 +18,8 @@ Education
 Research experience
 ======
 * 09/2021-present 	*PhD in Neuroscience*
-  * Dr. Anmar Khadra and Dr. Derek Bowie, Integrated Program in Neuroscience, McGill University; Montreal, Canada
-  	Cerebellar excitability and neuronal dynamics in Fragile X Syndrome
+  * Dr. Anmar Khadra, Integrated Program in Neuroscience, McGill University; Montreal, Canada
+    Modelling neuronal excitability
 * 02/2021-08/2021 	*Master Thesis* 
   * Computational Modelling of the Effects of Ionic Current Alterations on Neuronal Firing in the Context of KCNA1-associated Episodic Ataxia Type 1
   * Dr. Jan Benda, Eberhard Karls Universität Tübingen; Tübingen
