@@ -31,9 +31,6 @@ Research experience
   * Computational modelling of conductance manipulations in models of epilepsy using an extended Hodgkin Huxley model
 * 05/2017-05/2019 	*Research Assistant - Physiology*
   * Dr. Silvia Pagliardini, University of Alberta; Edmonton, Canada
-  * 2018 	Women and Children's Health Research Institute Summer Studentship; University of Alberta; Edmonton, Canada
-  * 2017 & 2018 	Undergraduate Student Research Award, National Science & Engineering Research Council; Edmonton, Canada
-  * 2017-2019 	Neuro 451, 452, 498, & 499 research courses
   * Investigate the neural control of breathing mechanisms in rodents, performed stereotaxic viral injections, acute surgeries, and rodent care and handling
 * 05/2016-08/2016 	*Research Assistant - Biological Sciences*
   * Dr. Felix Sperling, University of Alberta; Edmonton, Canada
