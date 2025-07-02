@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nils A. Koch"
 title_separator          : "-"
 name                     : &name "Nils A. Koch"
-description              : &description ""
+description              : &description "Nils A. Koch, computational neuroscientist"
 url                      : https://nkoch1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nkoch1/nkoch1.github.io"
@@ -88,7 +88,7 @@ author:
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Nils+A+Koch" #example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=EQiQLZgAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Nils-Koch-2" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
