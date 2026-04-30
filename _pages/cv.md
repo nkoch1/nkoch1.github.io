@@ -57,11 +57,11 @@ Teaching
 ======
 * CAMBAM Workshop: Exploring Single Neuron Excitability with Mathematical and Computational Methods (June 2023) &emsp; [Github](https://github.com/nkoch1/CAMBAM_Workshop_Neuron_Excitability.git)
 * Teaching Assistant
-  * Phgy 212 (2025) &emsp; | McGill University  
-  * Phgy 2013 (2026) &emsp; | McGill University                                                                                                                                              |
+  * Phgy 212 (2025) &emsp; McGill University  
+  * Phgy 2013 (2026) &emsp; McGill University                                                                                                                                              |
 * Grader
-  * Math 437/537 (2023, 2024) &emsp; | McGill University                                                                                                                               |
+  * Math 437/537 (2023, 2024) &emsp; McGill University                                                                                                                               |
 * Invigilator 
-  * Phgy 209 (2021, 2022)  &emsp; | McGilll University 
-  * Phgy 210 (2022, 2023)  &emsp; | McGilll University    
+  * Phgy 209 (2021, 2022)  &emsp; McGilll University 
+  * Phgy 210 (2022, 2023)  &emsp; McGilll University    
 
