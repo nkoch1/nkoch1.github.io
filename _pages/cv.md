@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Neuroscience, McGill University, (anticipated 2026)
+* Ph.D in Neuroscience, McGill University, (August 2026)
 * M.Sc. in Neural and Behavioural Sciences, Eberhard Karl University of Tübingen, 2021
 * B.Sc.(Hons) in Neuroscience, University of Alberta, 2019
 
